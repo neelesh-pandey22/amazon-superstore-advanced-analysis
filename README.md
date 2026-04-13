@@ -117,7 +117,7 @@ The goal is to move beyond descriptive reporting and highlight areas that requir
 ## 📂 Files Included
 
 * Dataset: 
-* Dashboard Report (Excel)
+* Dashboard Report (7z Zip File)
 
 ---
 
@@ -138,6 +138,7 @@ The analysis highlights that while the business is growing in terms of sales, it
 
 ## 📞 Contact
 
-For queries or collaboration, feel free to connect via LinkedIn or portfolio platforms.
+Neelesh Kumar Pandey
+![LinkedIn](www.linkedin.com/in/neelesh-kumar-pandey)
 
 ---
