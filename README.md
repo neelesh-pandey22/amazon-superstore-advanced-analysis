@@ -139,6 +139,6 @@ The analysis highlights that while the business is growing in terms of sales, it
 ## 📞 Contact
 
 Neelesh Kumar Pandey
-![LinkedIn](www.linkedin.com/in/neelesh-kumar-pandey)
+[LinkedIn](www.linkedin.com/in/neelesh-kumar-pandey)
 
 ---
